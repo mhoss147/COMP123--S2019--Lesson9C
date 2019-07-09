@@ -16,7 +16,7 @@ namespace COMP123__Lesson9
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Calculator());
+            Application.Run(new form1());
         }
     }
 }
